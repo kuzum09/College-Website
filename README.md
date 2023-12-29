@@ -56,7 +56,7 @@ In essence, the website is crafted by combining these technologies to provide vi
 
 * The styles for the website are defined in an external stylesheet (stylesheet.css).
 * CSS rules specify the appearance of various elements, such as font styles, colours, layout, and responsiveness.
-  ### JavaScript (Not Present):
+### JavaScript (Not Present):
 
 * The current code doesn't include JavaScript but could be added for dynamic behaviour and interactivity.
 
