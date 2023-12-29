@@ -1,4 +1,4 @@
-# College-Website
+# Dummy College-Website
 
 ## Link to open the Website:
 [collegeiiitnr.000webhostapp.com](http://collegeiiitnr.000webhostapp.com)
