@@ -1,7 +1,7 @@
 # Dummy College-Website
 
 ## Link to open the Website:
-[collegeiiitnr.000webhostapp.com](http://collegeiiitnr.000webhostapp.com)
+
 
   
 * The website is created using HTML for structure, CSS for styling, and potentially JavaScript for interactivity.
