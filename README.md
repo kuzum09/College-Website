@@ -1,9 +1,6 @@
 # Dummy College-Website
 
-## Link to open the Website:
 
-
-  
 * The website is created using HTML for structure, CSS for styling, and potentially JavaScript for interactivity.
 * HTML defines the content and structure of the webpage, while CSS styles make it visually appealing and responsive.
 * External libraries like FontAwesome are included for additional icons and styling.
